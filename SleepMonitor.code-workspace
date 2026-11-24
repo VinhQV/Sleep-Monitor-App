@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "name": "ESP32 PlatformIO", "path": "firmware" },
+    { "name": "REST + MQTT Server", "path": "backend" },
+    { "name": "Documentation", "path": "docs" }
+  ],
+  "extensions": { "recommendations": ["platformio.platformio-ide", "ms-vscode.cpptools"] },
+  "settings": { "terminal.integrated.env.windows": { "PYTHONUTF8": "1" } }
+}

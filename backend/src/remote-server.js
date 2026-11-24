@@ -1,0 +1,11 @@
+import {readFileSync,writeFileSync,mkdirSync,existsSync} from 'node:fs';
+import {randomBytes} from 'node:crypto';
+import {config} from './config.js';
+import {startRemoteGateway} from './remote-gateway.js';
+const file=new URL('../data/remote-access.json',import.meta.url);
+mkdirSync(new URL('../data/',import.meta.url),{recursive:true});
+if(!existsSync(file))writeFileSync(file,JSON.stringify({appKey:randomBytes(32).toString('base64url'),deviceKey:randomBytes(32).toString('base64url')},null,2),{mode:0o600});
+const keys=JSON.parse(readFileSync(file,'utf8').replace(/^\uFEFF/,''));
+const gateway=await startRemoteGateway({...keys,upstreamKey:config.apiKey,upstreamPort:config.port});
+console.log('Sleep Remote Gateway ready on 127.0.0.1:'+gateway.port);
+for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{await gateway.close();process.exit(0);});

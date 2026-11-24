@@ -1,0 +1,27 @@
+VIDEO GIỚI THIỆU ỨNG DỤNG — NHÓM 09
+Giọng tổng hợp: vi-VN-NamMinhNeural (nam, tiếng Việt)
+Hình ảnh: quay trực tiếp ứng dụng Android phiên bản 2.2.
+
+01 / TỔNG QUAN
+Một đêm an yên, bắt đầu từ việc hiểu giấc ngủ của chính mình. Ứng dụng của nhóm chín kết hợp nhật ký cá nhân và môi trường phòng ngủ, trong một giao diện đêm nhẹ nhàng, dễ sử dụng.
+
+02 / NHẬT KÝ
+Bạn có thể bắt đầu theo dõi ngay khi đi ngủ, hoặc nhập lại một phiên ngủ. Chọn giờ đi ngủ, giờ thức dậy, đánh giá cảm nhận và thêm ghi chú, để mỗi buổi sáng đều có một dấu mốc rõ ràng.
+
+03 / LỊCH SỬ
+Toàn bộ nhật ký được tập hợp trong lịch sử. Tìm kiếm, lọc theo cảm nhận, mở lại từng phiên và chỉnh sửa khi cần. Những thay đổi nhỏ trong thói quen, vì thế, cũng dễ được nhìn lại hơn.
+
+04 / THỐNG KÊ
+Ở màn hình thống kê, biểu đồ giúp bạn quan sát thời lượng ngủ theo tuần và tháng, cùng cảm nhận đã ghi lại. Một cách trực quan để xem lịch sinh hoạt của mình có đang đều đặn hay không.
+
+05 / KHÔNG GIAN NGỦ
+Khi kết nối thiết bị cảm biến, ứng dụng hiển thị nhiệt độ, độ ẩm và ánh sáng trong phòng ngủ. Bạn có thể xem diễn biến trong hai mươi bốn giờ và theo dõi các ngưỡng môi trường đã thiết lập.
+
+06 / ĐÈN ĐẦU GIƯỜNG
+Đèn đầu giường được điều chỉnh ngay trên ứng dụng. Chọn mức sáng phù hợp để thư giãn, và thiết lập lịch đèn bình minh trong phần cài đặt. Một trải nghiệm kết nối hướng đến sự tiện lợi mỗi ngày.
+
+07 / TRỢ LÝ GIẤC NGỦ
+Ứng dụng còn có giao diện trợ lý giấc ngủ. Sau khi cấu hình dịch vụ trí tuệ nhân tạo, bạn có thể hỏi về thói quen và môi trường nghỉ ngơi. Việc chia sẻ dữ liệu luôn do bạn chủ động lựa chọn.
+
+NHÓM 09 / ỨNG DỤNG THEO DÕI GIẤC NGỦ
+Từ ghi chép, nhìn lại xu hướng, đến kết nối phòng ngủ: tất cả trong một ứng dụng. Chăm chút từng đêm, để bắt đầu mỗi ngày với một nhịp sống chủ động hơn.

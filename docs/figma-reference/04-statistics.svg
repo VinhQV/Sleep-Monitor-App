@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Sleep Monitor — Statistics">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F6F8FC"/>
+<text x="24" y="24" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">9:41</text>
+<rect x="324" y="12" width="4" height="6" rx="1" fill="#17243D"/>
+<rect x="330" y="10" width="4" height="8" rx="1" fill="#17243D"/>
+<rect x="336" y="8" width="4" height="10" rx="1" fill="#17243D"/>
+<path d="M346 12 Q351 7 356 12 M348 15 Q351 12 354 15" stroke="#17243D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="361" y="9" width="16" height="9" rx="2" fill="none" stroke="#17243D" stroke-width="1"/>
+<rect x="378" y="12" width="2" height="3" rx="1" fill="#17243D"/>
+<rect x="363" y="11" width="12" height="5" rx="1" fill="#17243D"/>
+<text x="22" y="67" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">Sleep Statistics</text>
+<text x="22" y="89" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="450" fill="#77849A" text-anchor="start" letter-spacing="0">Find patterns in your rest</text>
+<rect x="18" y="111" width="354" height="43" rx="12" fill="#E9EDF5"/>
+<rect x="21" y="114" width="172" height="37" rx="10" fill="#FFFFFF"/>
+<text x="107" y="138" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#17243D" text-anchor="middle" letter-spacing="0">Week</text>
+<text x="284" y="138" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#77849A" text-anchor="middle" letter-spacing="0">Month</text>
+<rect x="18" y="173" width="354" height="106" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="170" width="354" height="106" rx="18" fill="#FFFFFF"/>
+<text x="36" y="196" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#77849A" text-anchor="start" letter-spacing="1.1">AVERAGE SLEEP</text>
+<text x="36" y="239" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">7h 05m</text>
+<rect x="238" y="199" width="114" height="24" rx="12" fill="#ECECFF"/>
+<text x="295.0" y="215" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#686EE5" text-anchor="middle" letter-spacing="0">+ 24m vs last week</text>
+<text x="22" y="309" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Sleep duration</text>
+<text x="368" y="309" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#686EE5" text-anchor="end" letter-spacing="0">Goal 8h</text>
+<rect x="18" y="327" width="354" height="205" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="324" width="354" height="205" rx="18" fill="#FFFFFF"/>
+<line x1="47" y1="377" x2="348" y2="377" stroke="#C9CEEE" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="348" y="369" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" fill="#686EE5" text-anchor="end" letter-spacing="0">8h</text>
+<rect x="49" y="389.2" width="23" height="100.8" rx="6" fill="#B6B9F6"/>
+<text x="60.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Mon</text>
+<rect x="96" y="394.8" width="23" height="95.2" rx="6" fill="#B6B9F6"/>
+<text x="107.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Tue</text>
+<rect x="143" y="383.6" width="23" height="106.39999999999999" rx="6" fill="#B6B9F6"/>
+<text x="154.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Wed</text>
+<rect x="190" y="378" width="23" height="112" rx="6" fill="#B6B9F6"/>
+<text x="201.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Thu</text>
+<rect x="237" y="399.0" width="23" height="91.0" rx="6" fill="#B6B9F6"/>
+<text x="248.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Fri</text>
+<rect x="284" y="375.20000000000005" width="23" height="114.79999999999998" rx="6" fill="#686EE5"/>
+<text x="295.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Sat</text>
+<rect x="331" y="386.4" width="23" height="103.60000000000001" rx="6" fill="#B6B9F6"/>
+<text x="342.5" y="511" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Sun</text>
+<text x="22" y="558" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Quality overview</text>
+<rect x="18" y="574" width="354" height="75" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="571" width="354" height="75" rx="18" fill="#FFFFFF"/>
+<circle cx="75" cy="600" r="5" fill="#169B91"/>
+<text x="87" y="604" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">4</text>
+<text x="75" y="628" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Good</text>
+<circle cx="195" cy="600" r="5" fill="#E5A742"/>
+<text x="207" y="604" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">2</text>
+<text x="195" y="628" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Average</text>
+<circle cx="315" cy="600" r="5" fill="#D77777"/>
+<text x="327" y="604" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">1</text>
+<text x="315" y="628" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="550" fill="#77849A" text-anchor="middle" letter-spacing="0">Poor</text>
+<text x="22" y="678" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Sleep environment insight</text>
+<rect x="18" y="692" width="354" height="58" rx="14" fill="#ECECFF"/>
+<text x="35" y="715" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="650" fill="#17243D" text-anchor="start" letter-spacing="0">Longer sleep on nights at 24–27°C</text>
+<text x="35" y="734" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">A preview insight based on sample data</text>
+<rect x="0" y="764" width="390" height="80" rx="0" fill="#FFFFFF"/>
+<line x1="0" y1="764" x2="390" y2="764" stroke="#E8EDF5" stroke-width="1" stroke-linecap="round"/>
+<path d="M30 791 L39 783 L48 791 V800 H30 Z M36 800 V793 H42 V800" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="39" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Home</text>
+<path d="M124 798 A10 10 0 0 1 111 785 A9 9 0 1 0 124 798 Z" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="117" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Sleep</text>
+<path d="M190 784 V794 A7 7 0 1 0 200 794 V784 A5 5 0 0 0 190 784 Z" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="195" y1="787" x2="195" y2="798" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round"/>
+<text x="195" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Environment</text>
+<rect x="243" y="774" width="60" height="54" rx="14" fill="#ECECFF"/>
+<rect x="264" y="792" width="4" height="8" rx="1" fill="#686EE5"/>
+<rect x="271" y="785" width="4" height="15" rx="1" fill="#686EE5"/>
+<rect x="278" y="789" width="4" height="11" rx="1" fill="#686EE5"/>
+<text x="273" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="650" fill="#686EE5" text-anchor="middle" letter-spacing="0">Statistics</text>
+<circle cx="351" cy="792" r="9" fill="none" stroke="#A1ACBD" stroke-width="1.8"/>
+<line x1="351" y1="792" x2="351" y2="787" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="351" y1="792" x2="355" y2="794" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round"/>
+<text x="351" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">History</text>
+<rect x="143" y="835" width="104" height="4" rx="2" fill="#C8D0DC"/>
+</svg>

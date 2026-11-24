@@ -1,0 +1,23 @@
+**/build/
+**/.gradle/
+**/.idea/
+**/local.properties
+**/.pio/
+**/node_modules/
+backend/data/
+backend/.env
+backend/.env.*
+!backend/.env.example
+firmware/include/secrets.h
+*.log
+
+# Generated files and local records
+**/.kotlin/
+**/__pycache__/
+**/.env
+**/.env.*
+!**/.env.example
+*.apk
+*.sqlite
+*.sqlite-*
+/release/

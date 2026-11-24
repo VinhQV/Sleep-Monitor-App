@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Sleep Monitor — Bedroom environment">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F6F8FC"/>
+<text x="24" y="24" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">9:41</text>
+<rect x="324" y="12" width="4" height="6" rx="1" fill="#17243D"/>
+<rect x="330" y="10" width="4" height="8" rx="1" fill="#17243D"/>
+<rect x="336" y="8" width="4" height="10" rx="1" fill="#17243D"/>
+<path d="M346 12 Q351 7 356 12 M348 15 Q351 12 354 15" stroke="#17243D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="361" y="9" width="16" height="9" rx="2" fill="none" stroke="#17243D" stroke-width="1"/>
+<rect x="378" y="12" width="2" height="3" rx="1" fill="#17243D"/>
+<rect x="363" y="11" width="12" height="5" rx="1" fill="#17243D"/>
+<text x="22" y="67" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">Bedroom Environment</text>
+<text x="22" y="89" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="450" fill="#77849A" text-anchor="start" letter-spacing="0">Your room at a glance</text>
+<rect x="18" y="114" width="354" height="90" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="111" width="354" height="90" rx="18" fill="#FFFFFF"/>
+<circle cx="51" cy="155" r="18" fill="#E0F5F1"/>
+<circle cx="51" cy="155" r="6" fill="#169B91"/>
+<text x="79" y="146" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">ESP32 Bedroom Sensor</text>
+<text x="79" y="167" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">Last update · 10 seconds ago</text>
+<rect x="297" y="138" width="56" height="24" rx="12" fill="#E0F5F1"/>
+<text x="325.0" y="154" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#169B91" text-anchor="middle" letter-spacing="0">Online</text>
+<text x="22" y="233" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Current environment</text>
+<rect x="18" y="250" width="354" height="86" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="247" width="354" height="86" rx="18" fill="#FFFFFF"/>
+<circle cx="58" cy="289" r="23" fill="#ECECFF"/>
+<path d="M53 281 V291 A7 7 0 1 0 63 291 V281 A5 5 0 0 0 53 281 Z" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="58" y1="284" x2="58" y2="295" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round"/>
+<text x="94" y="274" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="550" fill="#77849A" text-anchor="start" letter-spacing="0">Temperature</text>
+<text x="94" y="304" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">26.5</text>
+<text x="151" y="304" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">°C</text>
+<rect x="249" y="278" width="105" height="24" rx="12" fill="#E0F5F1"/>
+<text x="301.5" y="294" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#169B91" text-anchor="middle" letter-spacing="0">Comfortable</text>
+<rect x="18" y="348" width="354" height="86" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="345" width="354" height="86" rx="18" fill="#FFFFFF"/>
+<circle cx="58" cy="387" r="23" fill="#ECECFF"/>
+<path d="M58 377 C55 382 51 387 51 390 A7 7 0 0 0 65 390 C65 387 61 382 58 377 Z" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="94" y="372" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="550" fill="#77849A" text-anchor="start" letter-spacing="0">Humidity</text>
+<text x="94" y="402" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">63</text>
+<text x="151" y="402" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">%</text>
+<rect x="249" y="376" width="105" height="24" rx="12" fill="#E0F5F1"/>
+<text x="301.5" y="392" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#169B91" text-anchor="middle" letter-spacing="0">Optimal</text>
+<rect x="18" y="446" width="354" height="86" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="443" width="354" height="86" rx="18" fill="#FFFFFF"/>
+<circle cx="58" cy="485" r="23" fill="#ECECFF"/>
+<path d="M58 475 A8 8 0 0 0 53 489 V492 H63 V489 A8 8 0 0 0 58 475 Z M54 495 H62" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="94" y="470" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="550" fill="#77849A" text-anchor="start" letter-spacing="0">Light</text>
+<text x="94" y="500" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">120</text>
+<text x="151" y="500" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">lux</text>
+<rect x="249" y="474" width="105" height="24" rx="12" fill="#E0F5F1"/>
+<text x="301.5" y="490" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" fill="#169B91" text-anchor="middle" letter-spacing="0">Good for sleep</text>
+<text x="22" y="568" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Overall environment</text>
+<rect x="18" y="583" width="354" height="71" rx="16" fill="#E0F5F1"/>
+<circle cx="51" cy="619" r="15" fill="#169B91"/>
+<path d="M44 619 L49 624 L58 614" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="78" y="612" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Comfortable for sleeping</text>
+<text x="78" y="631" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#169B91" text-anchor="start" letter-spacing="0">Conditions are within your ideal range</text>
+<text x="22" y="686" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Sensor history</text>
+<text x="368" y="686" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#686EE5" text-anchor="end" letter-spacing="0">See all</text>
+<rect x="18" y="701" width="354" height="53" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="698" width="354" height="53" rx="18" fill="#FFFFFF"/>
+<text x="35" y="723" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#17243D" text-anchor="start" letter-spacing="0">Temperature today</text>
+<path d="M188 730 L211 724 L233 726 L252 712 L273 717 L294 705 L318 712 L343 703" stroke="#686EE5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="0" y="764" width="390" height="80" rx="0" fill="#FFFFFF"/>
+<line x1="0" y1="764" x2="390" y2="764" stroke="#E8EDF5" stroke-width="1" stroke-linecap="round"/>
+<path d="M30 791 L39 783 L48 791 V800 H30 Z M36 800 V793 H42 V800" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="39" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Home</text>
+<path d="M124 798 A10 10 0 0 1 111 785 A9 9 0 1 0 124 798 Z" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="117" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Sleep</text>
+<rect x="165" y="774" width="60" height="54" rx="14" fill="#ECECFF"/>
+<path d="M190 784 V794 A7 7 0 1 0 200 794 V784 A5 5 0 0 0 190 784 Z" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="195" y1="787" x2="195" y2="798" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round"/>
+<text x="195" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="650" fill="#686EE5" text-anchor="middle" letter-spacing="0">Environment</text>
+<rect x="264" y="792" width="4" height="8" rx="1" fill="#A1ACBD"/>
+<rect x="271" y="785" width="4" height="15" rx="1" fill="#A1ACBD"/>
+<rect x="278" y="789" width="4" height="11" rx="1" fill="#A1ACBD"/>
+<text x="273" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">Statistics</text>
+<circle cx="351" cy="792" r="9" fill="none" stroke="#A1ACBD" stroke-width="1.8"/>
+<line x1="351" y1="792" x2="351" y2="787" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="351" y1="792" x2="355" y2="794" stroke="#A1ACBD" stroke-width="1.8" stroke-linecap="round"/>
+<text x="351" y="818" font-family="Inter, Arial, sans-serif" font-size="9.5" font-weight="500" fill="#A1ACBD" text-anchor="middle" letter-spacing="0">History</text>
+<rect x="143" y="835" width="104" height="4" rx="2" fill="#C8D0DC"/>
+</svg>

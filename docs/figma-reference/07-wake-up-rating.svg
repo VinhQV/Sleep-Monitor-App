@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Sleep Monitor — Wake up and rate sleep">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F6F8FC"/>
+<text x="24" y="24" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">9:41</text>
+<rect x="324" y="12" width="4" height="6" rx="1" fill="#17243D"/>
+<rect x="330" y="10" width="4" height="8" rx="1" fill="#17243D"/>
+<rect x="336" y="8" width="4" height="10" rx="1" fill="#17243D"/>
+<path d="M346 12 Q351 7 356 12 M348 15 Q351 12 354 15" stroke="#17243D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="361" y="9" width="16" height="9" rx="2" fill="none" stroke="#17243D" stroke-width="1"/>
+<rect x="378" y="12" width="2" height="3" rx="1" fill="#17243D"/>
+<rect x="363" y="11" width="12" height="5" rx="1" fill="#17243D"/>
+<text x="22" y="65" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">Good morning</text>
+<text x="22" y="87" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">Your sleep session has ended</text>
+<rect x="18" y="119" width="354" height="178" rx="18" fill="#DCE3F0"/>
+<rect x="18" y="116" width="354" height="178" rx="18" fill="#FFFFFF"/>
+<circle cx="195" cy="173" r="27" fill="#ECECFF"/>
+<path d="M202 179 A10 10 0 0 1 189 166 A9 9 0 1 0 202 179 Z" stroke="#686EE5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="195" y="218" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="750" fill="#17243D" text-anchor="middle" letter-spacing="0">7h 32m</text>
+<text x="195" y="243" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="500" fill="#77849A" text-anchor="middle" letter-spacing="0">23:10 – 06:42</text>
+<text x="195" y="270" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="650" fill="#686EE5" text-anchor="middle" letter-spacing="0">Ready to save your night?</text>
+<rect x="0" y="0" width="390" height="844" fill="#17243D" opacity="0.58"/>
+<rect x="0" y="352" width="390" height="492" rx="24" fill="#FFFFFF"/>
+<rect x="165" y="364" width="60" height="5" rx="3" fill="#E8EDF5"/>
+<text x="22" y="405" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="750" fill="#17243D" text-anchor="start" letter-spacing="0">How did you sleep?</text>
+<text x="22" y="428" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">Rate your rest before saving the session</text>
+<rect x="18" y="453" width="66" height="75" rx="13" fill="#FFFFFF" stroke="#E8EDF5" stroke-width="1.5"/>
+<text x="51" y="479" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#77849A" text-anchor="middle" letter-spacing="0">01</text>
+<text x="51" y="507" font-family="Inter, Arial, sans-serif" font-size="9.2" font-weight="650" fill="#77849A" text-anchor="middle" letter-spacing="0">Very Poor</text>
+<rect x="90" y="453" width="66" height="75" rx="13" fill="#FFFFFF" stroke="#E8EDF5" stroke-width="1.5"/>
+<text x="123" y="479" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#77849A" text-anchor="middle" letter-spacing="0">02</text>
+<text x="123" y="507" font-family="Inter, Arial, sans-serif" font-size="9.2" font-weight="650" fill="#77849A" text-anchor="middle" letter-spacing="0">Poor</text>
+<rect x="162" y="453" width="66" height="75" rx="13" fill="#FFFFFF" stroke="#E8EDF5" stroke-width="1.5"/>
+<text x="195" y="479" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#77849A" text-anchor="middle" letter-spacing="0">03</text>
+<text x="195" y="507" font-family="Inter, Arial, sans-serif" font-size="9.2" font-weight="650" fill="#77849A" text-anchor="middle" letter-spacing="0">Average</text>
+<rect x="234" y="453" width="66" height="75" rx="13" fill="#ECECFF" stroke="#686EE5" stroke-width="1.5"/>
+<text x="267" y="479" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#686EE5" text-anchor="middle" letter-spacing="0">04</text>
+<text x="267" y="507" font-family="Inter, Arial, sans-serif" font-size="9.2" font-weight="650" fill="#686EE5" text-anchor="middle" letter-spacing="0">Good</text>
+<rect x="306" y="453" width="66" height="75" rx="13" fill="#FFFFFF" stroke="#E8EDF5" stroke-width="1.5"/>
+<text x="339" y="479" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#77849A" text-anchor="middle" letter-spacing="0">05</text>
+<text x="339" y="507" font-family="Inter, Arial, sans-serif" font-size="9.2" font-weight="650" fill="#77849A" text-anchor="middle" letter-spacing="0">Very Good</text>
+<text x="22" y="564" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#17243D" text-anchor="start" letter-spacing="0">Add a note</text>
+<rect x="18" y="577" width="354" height="77" rx="12" fill="#F6F8FC" stroke="#E8EDF5" stroke-width="1"/>
+<text x="34" y="604" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400" fill="#77849A" text-anchor="start" letter-spacing="0">How do you feel this morning?</text>
+<rect x="18" y="682" width="354" height="55" rx="14" fill="#686EE5"/>
+<text x="195" y="716" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="750" fill="#FFFFFF" text-anchor="middle" letter-spacing="0">SAVE SLEEP RECORD</text>
+<text x="195" y="762" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" fill="#77849A" text-anchor="middle" letter-spacing="0">Maybe later</text>
+<rect x="143" y="835" width="104" height="4" rx="2" fill="#C8D0DC"/>
+</svg>
